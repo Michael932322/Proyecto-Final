@@ -12,5 +12,6 @@ User Manual Book Electronic  https://heyzine.com/flip-book/95b6398f32.html
 Link TRELLO
 https://trello.com/b/x4PjFCo1/intersvshop
 Link Mockup
+https://www.figma.com/design/EHya8ZkWdmLsq4xabMsM73/Ecommerce-ShopSv?node-id=34-213&node-type=frame
 Link de Jira
 
