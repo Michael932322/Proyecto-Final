@@ -14,5 +14,5 @@ https://trello.com/b/x4PjFCo1/intersvshop
 Link Mockup
 https://www.figma.com/design/EHya8ZkWdmLsq4xabMsM73/Ecommerce-ShopSv?node-id=34-213&node-type=frame
 Link de Jira
-https://alumno-engineer-depg1ypa.atlassian.net
+https://alumno-engineer-depg1ypa.atlassian.net/jira/software/c/projects/SCRUM/boards/4?useStoredSettings=true&atlOrigin=eyJpIjoiMjRiODBlMGViZTJjNGM5YmEzZjc4ZDgxYzQ0NmUzNzAiLCJwIjoiaiJ9
 
